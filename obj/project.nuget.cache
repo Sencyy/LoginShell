@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQSt+y1JoKp5zQ5dIFrtQCbsik5QzVRJUVDvY8lBWEVEkIT7F9RyODMl2ze4sk6OTReit558V44/K74dI0tRrw==",
+  "success": true,
+  "projectFilePath": "/home/flan/dev/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/flan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.0/microsoft.aspnetcore.app.ref.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
